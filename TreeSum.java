@@ -1,6 +1,6 @@
 import java.util.*;
 
-class TreeSum {
+public class TreeSum {
     private static int sum;
     public static void main(String[] args) {
         int[][] board=new int[8][8];
